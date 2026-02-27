@@ -3,7 +3,7 @@ uvicorn[standard]
 opencv-python-headless
 numpy
 mediapipe
-tensorflow==2.13.0
+tensorflow==2.15.0
 pydantic
 python-multipart
 gTTS
