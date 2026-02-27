@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+numpy
+mediapipe
+tensorflow-cpu
+pydantic
+python-multipart
+gTTS
+language-tool-python
+nltk
+deep-translator
+spellchecker
