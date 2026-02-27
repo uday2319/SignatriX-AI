@@ -1,4 +1,4 @@
-# SignBridge-AI (No AI used for writing this please read)
+# Signatrix-AI 
 
 Here is the some key constrainsts about my project "Sign-Bridge AI" : 
 
@@ -12,28 +12,5 @@ Here is the some key constrainsts about my project "Sign-Bridge AI" :
 -----> here the goal is simple to help those people that is lacking because they does not have the voice so that is the major reason to devlop this project
 
 ## 4.What is unique than others?
------> In the LinkedIn or the any platform i can found this type of the "sign language detection models" but i think to go beyond that and i have added the additional functionality it means end-to-end communication pipeline (HandSign -> detection -> speak -> in multilanguage support ). so this thing is uniqly made by my own idea and creation  
+-----> In the LinkedIn or the any platform i can found this type of the "sign language detection models" but i think to go beyond that and i have added the additional functionality it means end-to-end communication pipeline (HandSign -> detection -> speak -> in multilanguage support ). so this thing is uniqly made by my own idea and creation  and with live language translator
 
-## 5.What Domain expertise that i have put in this project ? 
-----> Be honest with your self i have put all the topics that i learned before like LLM(Mobile-Net-V2) , Finetunning(100-155 layers till i fune tunned) , for the sentence suggestion i use the NLP(text processing -> prediction) , OpenCV(image capturing and the image preprocessing) , web sockets (frames are not lagging by using this) , Speech modules (for speaking in the multi-language)
-
-## 6.Which platform i use to deploy this project?
------> I used the AWS -> EC2 -> t3-small-instance for deploying 
-
-
-<h2>📸 Project Screenshots</h2>
-
-<h3>Train Vs Val Loss</h3>
-<img src="static/screenshot-1.png" width="700"/>
-
-<h3>Train Vs Val Accuracy</h3>
-<img src="static/screenshot-2.png" width="700"/>
-
-<h3>Confusion Matrix</h3>
-<img src="static/screenshot-3.png" width="700"/>
-
-<h3>Translation Feature</h3>
-<img src="static/screenshot-4.png" width="700"/>
-
-<h3>Custom Dataset Creation</h3>
-<img src="static/screenshot-5.png" width="700"/>
